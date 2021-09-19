@@ -9,7 +9,7 @@ export default function Account(): ReactElement {
     <h1>👋 Hey {user?.displayName}!</h1>
 
     <div className={'info'}>
-      We hope you are happy with our tools. <br /><br />Got any question or have a suggestion? Reach out to us on <a href={'https://discord.gg/EYRQUaz'} target={'_blank'}>Discord</a>.
+      We hope you are happy with our tools. <br /><br />Got any question or have a suggestion? Contact me on <a href={'https://twitter.com/michaelketzer'} target={'_blank'}>Twitter</a>.
     </div>
 
     <div className={'deleteAccount'}>
